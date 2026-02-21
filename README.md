@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Js and React**
 
-- 👯 I’m looking to collaborate on [Shweta-Kochar-s-Counciling](https://github.com/ishaquecreates/Shweta-Kochar-s-Counciling-)
+- 👯 I’m looking to collaborate on [Marqzen-Digital-Agency](https://github.com/ishaquecreates/Marqzen-Digital-Agency)
 
-- 🤝 I’m looking for help with [Shweta-Kochar-s-Counciling](https://github.com/ishaquecreates/Shweta-Kochar-s-Counciling-)
+- 🤝 I’m looking for help with [Marqzen-Digital-Agency](https://github.com/ishaquecreates/Marqzen-Digital-Agency)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishaquecreates](https://github.com/ishaquecreates)
 
