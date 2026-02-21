@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaquecreates&label=Profile%20views&color=0e75b6&style=flat" alt="ishaquecreates" /> </p>
 
-- 🔭 I’m currently working on [Modelia-Dream-Makers-Studio](https://github.com/ishaquecreates/Modelia-Dream-Makers-Studio)
+- 🔭 I’m currently working on [Marqzen-Digital-Agency](https://github.com/ishaquecreates/Marqzen-Digital-Agency)
 
 - 🌱 I’m currently learning **Js and React**
 
