@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohd-ishaque-336696218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-ishaque-336696218" height="30" width="40" /></a>
-<a href="https://instagram.com/md_ishaq442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_ishaq442" height="30" width="40" /></a>
+<a href="https://instagram.com/ishaque.creates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_ishaq442" height="30" width="40" /></a>
 <a href="http://www.youtube.com/@ishaq_webd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@ishaq_webd" height="30" width="40" /></a>
 </p>
 
